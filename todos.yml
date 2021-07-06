@@ -1,0 +1,25 @@
+---
+- :id: 1
+  :title: Groceries
+  :todos:
+  - :id: 1
+    :title: Buy watermelon
+    :done: false
+  - :id: 2
+    :title: Buy sugar
+    :done: false
+- :id: 2
+  :title: Homework
+  :todos:
+  - :id: 1
+    :title: Science
+    :done: false
+  - :id: 2
+    :title: Math
+    :done: false
+  - :id: 3
+    :title: Coding
+    :done: false
+- :id: 3
+  :title: Breakfast
+  :todos: []
